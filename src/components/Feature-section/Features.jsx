@@ -5,19 +5,19 @@ import "./features.css";
 const FeatureData = [
   {
     title: "Quick Learning",
-    desc: "We're on a mission to revolutionize education by delivering accelerated and effective learning experiences. Time is of the essence, and we understand the importance of acquiring knowledge swiftly and efficiently.",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
     icon: "ri-draft-line",
   },
 
   {
     title: "All Time Support",
-    desc: "At Quick Learning, we understand that learning doesn't adhere to a strict schedule.  With our unwavering commitment to providing all-time support, we ensure that your learning journey is smooth, seamless, and never bound by time constraints.",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
     icon: "ri-discuss-line",
   },
 
   {
     title: "Certification",
-    desc: "Certification is more than just a piece of paper; it's a testament to your dedication and expertise. Our certification programs are designed to not only equip you with knowledge but also to provide credible recognition of your achievements.",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
     icon: "ri-contacts-book-line",
   },
 ];
